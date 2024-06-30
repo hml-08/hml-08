@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning a course
 - 💞️ I’m looking to collaborate on gitHub
 - 📫 Phone:XXXX
-- 😄 Pronouns: Sigma male
-- ⚡ Fun fact: I'm better than you
+- 😄 Gender: male
+- ⚡ Fun fact: It's me.
 
 <!---
 hml-08/hml-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
